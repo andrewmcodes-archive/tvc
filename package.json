@@ -1,0 +1,18 @@
+{
+  "name": "TVC",
+  "version": "0.1.0",
+  "description": "TailwindCSS + ViewComponent",
+  "main": "./app/javascript/tvc/index.js",
+  "directories": {
+    "lib": "./app/javascript/tvc"
+  },
+  "repository": "https://github.com/andrewmcodes/tvc.git",
+  "author": "Andrew Mason <andrewmcodes@protonmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@rails/webpacker": "^5.1",
+    "tailwindcss": "^1.4.6",
+    "tailwindcss-stimulus-components": "^1.1.0"
+  }
+}
